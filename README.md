@@ -2,6 +2,8 @@
 
 ## Saylor and Sundell (2016)
 
+## Saylor, J. E., & Sundell, K. E. (2016). Quantifying comparison of large detrital geochronology data sets. Geosphere, 12(1), 203-220.
+
 ### Run in MATLAB
 
 To run DZstats in MATLAB open the DZstats.m file and run it.
