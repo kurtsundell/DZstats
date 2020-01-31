@@ -10,7 +10,7 @@ To run DZstats in MATLAB open the DZstats.m file and run it.
 
 DZstats can be run in MATLAB or as a standalone .exe file (Windows) or .app file (macOS) that can be used without having a MATLAB license. The file can be run from your computer's Desktop, or wherever you choose to keep it. 
 
-To run as a standalone program DZnmf requires the free MATLAB Runtime Compiler 2018b version 9.5. There are separate compilers for macOS and Windows. Install the compiler first, then run the .exe (Windows) or .app (macOS).
+To run as a standalone program DZstats requires the free MATLAB Runtime Compiler 2018b version 9.5. There are separate compilers for macOS and Windows. Install the compiler first, then run the .exe (Windows) or .app (macOS).
 
 Here are the links for the compilers (click to start download). Follow all of the default settings to install. Nothing will happen following installation -- there is no need to open the compiler -- DZstats will access it automatically.
 
