@@ -2,7 +2,7 @@
 
 ## Saylor and Sundell (2016)
 
-## Saylor, J. E., & Sundell, K. E. (2016). Quantifying comparison of large detrital geochronology data sets. Geosphere, 12(1), 203-220.
+## Saylor, Joel E., and Kurt E. Sundell. "Quantifying comparison of large detrital geochronology data sets." Geosphere 12, no. 1 (2016): 203-220.
 
 ### Run in MATLAB
 
